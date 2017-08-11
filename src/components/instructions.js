@@ -1,0 +1,1 @@
+//place any "dumb", or Presentational components in this components folder. I.E. any components that have no state and only take props
