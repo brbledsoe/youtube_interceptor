@@ -12,7 +12,9 @@
 +React
 <br><br>
 <b>Dev-Goals:</b><br>
-+ ~~initialize app~~
+
++ <strike>initialize app</strike>
+
 + set up chrome extension development environment 
 
 + intercept any/all youtube server responses
