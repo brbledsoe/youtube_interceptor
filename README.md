@@ -1,6 +1,6 @@
 # THIS IS JUST A GREAT OLE' APP (yep, it is...)
 <h3>YOUTUBE INTERCEPTOR (the name could change)</h3> 
-<br>
+<br> 
 <b>Description:</b><br>
 Ever wanted to clean up your youtube recommendations without removing a recomendation-channel all together? I mean, I love seeing the latest movie trailers, but not if they're actors are barely dressed...whhhelll, look no further than youtube interceptor. Simply give it a _filtering level_ (light, moderate, or intense), and protect it with a _password_ (parents/accountability-partners might use this) and surf away!
 <br><br>
