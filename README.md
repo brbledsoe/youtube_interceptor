@@ -13,8 +13,7 @@ Ever wanted to clean up your youtube recommendations without removing a recomend
 <li>React</li>
 </ul>
 
-<b>Dev-Goals:</b><ul>
-<li><strike>initialize app</strike></li>
+<b>Dev-Goals:</b><ul><li><strike>initialize app</strike></li>
 
 <li>set up chrome extension development environment</li>
 
