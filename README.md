@@ -15,25 +15,25 @@ Ever wanted to clean up your youtube recommendations without removing a recomend
 
 <b>Dev-Goals:</b><br>
 
-+ <strike>initialize app</strike>
+<li><strike>initialize app</strike></li>
 
-+ set up chrome extension development environment 
+<li>set up chrome extension development environment</li>
 
-+ intercept any/all youtube server responses
+<li>intercept any/all youtube server responses</li>
 
-+ find the most efficient way to parse what came back in the youtube response
+<li>find the most efficient way to parse what came back in the youtube response</li>
 
-+ implement third party api's for filtering images (look into costs of these dudes)
+<li>implement third party api's for filtering images (look into costs of these dudes)</li>
 ..* Clarifai
 ..* Google Cloud Vision
 ..* Amazon Rekognition
 ..* Any others out there?
 
-+ implement third party api's for filtering text, or any other content
+<li>implement third party api's for filtering text, or any other content</li>
 ..* not sure of any tech out there
 ..* maybe implement this ourselves
 
-+ make it password protected
+<li>make it password protected</li>
 ..* maybe use heroku add-ons
 
 <br><br>
