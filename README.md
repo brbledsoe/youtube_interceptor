@@ -10,7 +10,7 @@
 <br><br>
 <b>Tech Used:</b><br>
 
-+React
++ React
 <br><br>
 <b>Dev-Goals:</b><br>
 
