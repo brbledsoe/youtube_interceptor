@@ -1,6 +1,6 @@
 # This is just a great ole' app (yes, it is)
 
-*Name:*
+**Name:**
 ### GROSS-STUFF-ON-YOUTUBE-INTERCEPTOR <span>#### (the name could change)</span>
 
 
