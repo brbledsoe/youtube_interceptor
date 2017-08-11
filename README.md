@@ -11,7 +11,7 @@
 <b>Tech Used:</b>
 +React
 <br><br>
-<b>Dev-Goals:</b>
+<b>Dev-Goals:</b><br>
 + ~~initialize app~~
 + set up chrome extension development environment 
 
