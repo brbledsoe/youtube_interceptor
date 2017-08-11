@@ -6,7 +6,7 @@
 <br><br>
 <b>Devs on the job:</b><br>
 <a href="https://github.com/jaffrime">jaffrime</a><br>
-[brbledsoe](https://github.com/brbledsoe)
+<a href="https://github.com/brbledsoe">brbledsoe</a>
 <br><br>
 <b>Tech Used:</b><br>
 + React
