@@ -12,7 +12,6 @@ Ever wanted to clean up your youtube recommendations without removing a recomend
 <ul>
 <li>React</li>
 </ul>
-<br>
 
 <b>Dev-Goals:</b><br>
 
