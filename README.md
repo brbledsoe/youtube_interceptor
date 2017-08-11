@@ -14,8 +14,7 @@ Ever wanted to surf youtube without all the gross vid's in the recommendations? 
 </ul>
 
 **Dev Goals:**
-<ul>
-<li><strike>initialize app</strike></li>
+<ul><li><strike>initialize app</strike></li>
 
 <li>set up chrome extension development environment</li>
 
