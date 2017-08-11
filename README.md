@@ -12,7 +12,6 @@
 +React
 <br><br>
 <b>Dev-Goals:</b><br>
-
 + <strike>initialize app</strike>
 
 + set up chrome extension development environment 
@@ -34,7 +33,7 @@
 + make it password protected
 ..* maybe use heroku add-ons
 
-<br><br><br>
+<br><br>
 
 ***
 
