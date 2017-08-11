@@ -33,11 +33,11 @@ brbledsoe
 +make it password protected
 ..*maybe use heroku add-ons
 
-
+<br><br><br>
 
 ***
 
-#CREATE REACT INSTRUCTION MANUAL
+# CREATE REACT INSTRUCTION MANUAL
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
