@@ -9,9 +9,9 @@
 [brbledsoe](https://github.com/brbledsoe)
 <br><br>
 <b>Tech Used:</b><br>
-
 + React
-<br><br>
+<br>
+
 <b>Dev-Goals:</b><br>
 
 + <strike>initialize app</strike>
