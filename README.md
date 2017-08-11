@@ -14,7 +14,7 @@ Ever wanted to clean up your youtube recommendations without removing a recomend
 </ul>
 
 <b>Dev-Goals:</b><br>
-
+<ul>
 <li><strike>initialize app</strike></li>
 
 <li>set up chrome extension development environment</li>
@@ -35,6 +35,7 @@ Ever wanted to clean up your youtube recommendations without removing a recomend
 
 <li>make it password protected</li>
 ..* maybe use heroku add-ons
+</ul>
 
 <br><br>
 
