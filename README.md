@@ -23,18 +23,27 @@ Ever wanted to clean up your youtube recommendations without removing a recomend
 
 <li>find the most efficient way to parse what came back in the youtube response</li>
 
-<li>implement third party api's for filtering images (look into costs of these dudes)</li>
-..* Clarifai
-..* Google Cloud Vision
-..* Amazon Rekognition
-..* Any others out there?
+<li>implement third party api's for filtering images (look into costs of these dudes)
+  <ul>
+    <li>Clarifai</li>
+    <li>Google Cloud Vision</li>
+    <li>Amazon Rekognition</li>
+    <li>Any others out there?</li>
+  </ul>
+</li>
 
-<li>implement third party api's for filtering text, or any other content</li>
-..* not sure of any tech out there
-..* maybe implement this ourselves
+<li>implement third party api's for filtering text, or any other content
+  <ul>
+  <li>not sure of any tech out there</li>
+    <li>maybe implement this ourselves</li>
+  </ul>
+</li>
 
-<li>make it password protected</li>
-..* maybe use heroku add-ons
+<li>make it password protected
+  <ul>
+    <li>maybe use heroku add-ons</li>
+  </ul>
+</li>
 </ul>
 
 <br><br>
