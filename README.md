@@ -1,3 +1,41 @@
+#THIS IS JUST A GREAT OLE' APP (yes it is...)
+
+_**Name:**_ Youtube Interceptor (this could change)
+_**Description:**_ 
+...Ever wanted to clean up your youtube recommendations without removing a recomendation-channel all together? I mean, I love seeing the latest movie trailers, but not if they're actors are barely dressed.<br>...Whhhelll, look no further than youtube interceptor. Simply give it a _filtering level_ (light, moderate, or intense), and protect it with a _password_ (parents/accountability-partners might use this) and surf away!
+
+_**Devs on the job**_
+jaffrime
+brbledsoe
+
+_**Tech Used:**_
++React
+
+_**Dev-Goals:**_
++~~initialize app~~
++set up chrome extension development environment 
+
++intercept any/all youtube server responses
+
++find the most efficient way to parse what came back in the youtube response
+
++implement third party api's for filtering images (look into costs of these dudes)
+..*Clarifai
+..*Google Cloud Vision
+..*Amazon Rekognition
+..*Any others out there?
+
++implement third party api's for filtering text, or any other content
+..*not sure of any tech out there
+..*maybe implement this ourselves
+
++make it password protected
+..*maybe use heroku add-ons
+
+***
+
+#CREATE REACT INSTRUCTION MANUAL
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
