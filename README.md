@@ -1,37 +1,37 @@
 # THIS IS JUST A GREAT OLE' APP (yep, it is...)
 
-**Name:** Youtube Interceptor (this could change)
+**Name:** ### YOUTUBE INTERCEPTOR ##### (this could change)
 
-**Description:** 
-...Ever wanted to clean up your youtube recommendations without removing a recomendation-channel all together? I mean, I love seeing the latest movie trailers, but not if they're actors are barely dressed.<br>...Whhhelll, look no further than youtube interceptor. Simply give it a _filtering level_ (light, moderate, or intense), and protect it with a _password_ (parents/accountability-partners might use this) and surf away!
+**Description:** <br>
+...Ever wanted to clean up your youtube recommendations without removing a recomendation-channel all together? I mean, I love seeing the latest movie trailers, but not if they're actors are barely dressed.<br><br>...Whhhelll, look no further than youtube interceptor. Simply give it a _filtering level_ (light, moderate, or intense), and protect it with a _password_ (parents/accountability-partners might use this) and surf away!
 
-**Devs on the job**
-jaffrime
-brbledsoe
+**Devs on the job**<br>
+[jaffrime](https://github.com/jaffrime)<br>
+[brbledsoe](https://github.com/brbledsoe)
 
 **Tech Used:**
 +React
 
 **Dev-Goals:**
-+~~initialize app~~
-+set up chrome extension development environment 
++ ~~initialize app~~
++ set up chrome extension development environment 
 
-+intercept any/all youtube server responses
++ intercept any/all youtube server responses
 
-+find the most efficient way to parse what came back in the youtube response
++ find the most efficient way to parse what came back in the youtube response
 
-+implement third party api's for filtering images (look into costs of these dudes)
-..*Clarifai
-..*Google Cloud Vision
-..*Amazon Rekognition
-..*Any others out there?
++ implement third party api's for filtering images (look into costs of these dudes)
+..* Clarifai
+..* Google Cloud Vision
+..* Amazon Rekognition
+..* Any others out there?
 
-+implement third party api's for filtering text, or any other content
-..*not sure of any tech out there
-..*maybe implement this ourselves
++ implement third party api's for filtering text, or any other content
+..* not sure of any tech out there
+..* maybe implement this ourselves
 
-+make it password protected
-..*maybe use heroku add-ons
++ make it password protected
+..* maybe use heroku add-ons
 
 <br><br>
 
