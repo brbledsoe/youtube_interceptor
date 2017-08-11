@@ -1,17 +1,18 @@
-#THIS IS JUST A GREAT OLE' APP (yes it is...)
+# THIS IS JUST A GREAT OLE' APP (yep, it is...)
 
-_**Name:**_ Youtube Interceptor (this could change)
-_**Description:**_ 
+**Name:** Youtube Interceptor (this could change)
+
+**Description:** 
 ...Ever wanted to clean up your youtube recommendations without removing a recomendation-channel all together? I mean, I love seeing the latest movie trailers, but not if they're actors are barely dressed.<br>...Whhhelll, look no further than youtube interceptor. Simply give it a _filtering level_ (light, moderate, or intense), and protect it with a _password_ (parents/accountability-partners might use this) and surf away!
 
-_**Devs on the job**_
+**Devs on the job**
 jaffrime
 brbledsoe
 
-_**Tech Used:**_
+**Tech Used:**
 +React
 
-_**Dev-Goals:**_
+**Dev-Goals:**
 +~~initialize app~~
 +set up chrome extension development environment 
 
@@ -31,6 +32,8 @@ _**Dev-Goals:**_
 
 +make it password protected
 ..*maybe use heroku add-ons
+
+
 
 ***
 
