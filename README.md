@@ -12,6 +12,7 @@
 +React
 <br><br>
 <b>Dev-Goals:</b><br>
+
 + <strike>initialize app</strike>
 
 + set up chrome extension development environment 
