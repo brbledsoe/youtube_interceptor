@@ -9,7 +9,9 @@ Ever wanted to clean up your youtube recommendations without removing a recomend
 <a href="https://github.com/brbledsoe">brbledsoe</a>
 <br><br>
 <b>Tech Used:</b><br>
-+ React
+<ul>
+<li>React</li>
+</ul>
 <br>
 
 <b>Dev-Goals:</b><br>
