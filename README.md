@@ -8,7 +8,8 @@
 [jaffrime](https://github.com/jaffrime)<br>
 [brbledsoe](https://github.com/brbledsoe)
 <br><br>
-<b>Tech Used:</b>
+<b>Tech Used:</b><br>
+
 +React
 <br><br>
 <b>Dev-Goals:</b><br>
