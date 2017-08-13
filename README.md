@@ -2,7 +2,7 @@
 <h3>YOUTUBE INTERCEPTOR (the name could change)</h3> 
 <br> 
 <b>Description:</b><br>
-Ever wanted to surf youtube without all the gross vid's in the recommendations? Whhhelll, look no further than <em>youtube interceptor</em>. Simply download the <a href="#">chrome extension</a>, set up a <em>filtering level</em> (light, moderate, or strict), add any <em>key words</em> you'd like to filter out, and even add an optional <em>password</em> block (parents/accountability-partners might like this), and surf youtube with less gross. Yeh!
+Ever wanted to surf youtube without all the gross vid's in the recommendations? Whhhelll, look no further than <em>youtube interceptor</em>. Simply download the <a href="#">chrome extension</a>, set up a <em>filtering level</em> (light, moderate, or strict), add any <em>key words</em> you'd like to filter out, and even add an optional <em>password</em> block (parents/accountability-partners might like this), maybe even place a time limit on your youtube surfing so as not to become a zombie, and surf youtube with less gross. Yeh!
 <br><br>
 <b>Devs on the job:</b><br>
 <a href="https://github.com/jaffrime">jaffrime</a><br>
