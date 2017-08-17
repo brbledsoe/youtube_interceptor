@@ -43,6 +43,13 @@ Ever wanted to surf youtube without all the gross vid's in the recommendations? 
     <li>maybe use heroku add-ons</li>
   </ul>
 </li>
+
+<li>implement machine learning
+  <ul>
+    <li>when a user hit's a youtube-interceptor-incerted "X" button above a video, youtube-interceptor learns from the experience and changes your future recomendations. 
+    </li>
+  </ul>
+</li>
 </ul>
 
 <br><br>
